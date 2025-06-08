@@ -41,5 +41,10 @@ General Information Management: Aid anyone dealing with large volumes of text by
 
 The Text Summarization Tool is a Python-based application that uses a pre-trained transformer model from Hugging Face to automatically generate concise summaries of lengthy text inputs. It dynamically adjusts summary length based on the input size and validates minimum text length to ensure meaningful output. The tool features a simple command-line interface, robust error handling, and efficient performance thanks to a lightweight distilled model. Its applications span many fields, including journalism, education, business, legal, healthcare, customer support, and content creation, helping users quickly understand large volumes of information and improve productivity.
 
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/3a944dcf-0079-4587-8a2c-1a7e6ec530d3)
+
+
 
 
